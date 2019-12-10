@@ -1,0 +1,22 @@
+
+celticspiritshearmypleathisdarklightercametodestroymereversemyfatetokeepmealivethesewordstohelptakeawayhislife
+	entry = "Spell"
+	bywho = "Xoulus"
+	bywhokey = "Xoule"
+	cost = 38
+	pthree = "Yes"
+	type = "Vanquish"
+	spell = "Celtic spirits hear my plea, this darklighter came to destroy me, reverse my fate to keep me alive, these words to help take away his life."
+	spellshrunk = "celticspiritshearmypleathisdarklightercametodestroymereversemyfatetokeepmealivethesewordstohelptakeawayhislife"
+	candle = "Yes"
+	explantion = "A much cunning darklighter who pretends to be good, tricking innocent witches that he is instead their guardian angels, gaining their trust slowly before turning against them."
+	approved = "Xoule"
+	title = "Risendemons"
+	affectwho = "Risendemons"
+	affectarea = "Someone (Must be In Sight)"
+xoule = object(".0")
+	.0
+		type = /mob
+		name = "Xoule"
+		gender = "male"
+		key = "Xoule"

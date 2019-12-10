@@ -1,0 +1,25 @@
+//START OF ANNOUNCE LOG FILES
+//BYOND Account Name: The user's key on BYOND
+//Character name: the name of the original character (without shapeshift/glamour)
+//Appearance: name of character (possibly with shapeshift/glamour)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+announces: Sorry for the lag, Im hosting off of dial up.  Im looking for hosts though, see the HUB for information.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+announces: gdfhd
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+announces: Need to reboot the server
+
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+announces: Sorry for the lag.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+announces: Im shutting down to send host ffiles to our new host.
+

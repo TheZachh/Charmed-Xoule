@@ -1,0 +1,41 @@
+"a" = (/turf/floor/ceiling/ceil7,/area)
+"b" = (/turf/floor/ceiling/ceil5,/area)
+"c" = (/turf/floor/ceiling/ceil6,/area)
+"d" = (/turf/floor/ceiling/ceil1,/area)
+"e" = (/turf/house/inner/beigewall,/area)
+"f" = (/turf/floor/ceiling/ceil4,/area)
+"g" = (/obj/misc/table/table4,/obj/Getables/Throwable/Potions/Mild_Vanquishing,/turf/house/inner/beigewall,/area)
+"h" = (/obj/misc/table/table5,/obj/Getables/Throwable/Potions/Mild_Vanquishing,/turf/house/inner/beigewall,/area)
+"i" = (/obj/misc/table/table6,/obj/Getables/Drinkable/Potions/Rejuvenation_Potion,/turf/house/inner/beigewall,/area)
+"j" = (/obj/misc/table/table4,/obj/Getables/Drinkable/Potions/Empty_Bottle,/turf/house/inner/beigewall,/area)
+"k" = (/obj/misc/table/table5,/obj/Getables/Drinkable/Potions/Empty_Bottle,/turf/house/inner/beigewall,/area)
+"l" = (/obj/misc/table/table6,/obj/Getables/Drinkable/Potions/Empty_Bottle,/turf/house/inner/beigewall,/area)
+"m" = (/obj/window/upper,/turf/house/inner/beigewall,/area)
+"n" = (/turf/floor/inner/wood,/area)
+"o" = (/obj/misc/npc/start1,/turf/floor/inner/wood,/area)
+"p" = (/obj/misc/table/table1,/turf/floor/inner/wood,/area)
+"q" = (/obj/misc/table/table2,/turf/floor/inner/wood,/area)
+"r" = (/obj/misc/table/table3,/turf/floor/inner/wood,/area)
+"s" = (/obj/misc/table/table7,/turf/floor/inner/wood,/area)
+"t" = (/obj/misc/table/table8,/turf/floor/inner/wood,/area)
+"u" = (/obj/misc/table/table9,/turf/floor/inner/wood,/area)
+"v" = (/turf/floor/ceiling/ceil2,/area)
+"w" = (/turf/floor/ceiling/ceil3,/area)
+"x" = (/turf/floor/ceiling/ceil8,/area)
+"y" = (/turf/floor/water/ceil9,/area)
+"z" = (/obj/teleporter/shop1/i1,/turf/floor/water/ceil9,/area)
+"A" = (/obj/teleporter/shop1/i2,/turf/floor/water/ceil9,/area)
+
+(1,1,1) = {"
+abbbbbbbbc
+deeeeeeeef
+dghieejklf
+dmmmmmmmmf
+dnnnnnnonf
+dnnnnnpqrf
+dnnnnnstuf
+dnnnnnnnnf
+dnnnnnnnnf
+vwwwnnwwwx
+yyyyzAyyyy
+"}

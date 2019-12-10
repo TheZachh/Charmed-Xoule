@@ -1,0 +1,30 @@
+"a" = (/turf/loginscreen/blank,/area)
+"b" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "0,2"},/area)
+"c" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "1,2"},/area)
+"d" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "2,2"},/area)
+"e" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "3,2"},/area)
+"f" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "0,1"},/area)
+"g" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "1,1"},/area)
+"h" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "2,1"},/area)
+"i" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "3,1"},/area)
+"j" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "0,0"},/area)
+"k" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "1,0"},/area)
+"l" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "2,0"},/area)
+"m" = (/turf/loginscreen/loginscreen{tag = ""; icon_state = "3,0"},/area)
+"n" = (/turf/loginscreen/loginstart,/area)
+"o" = (/turf/loginscreen/begin,/area)
+
+(1,1,1) = {"
+aaaaaaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaaa
+aaabcdeaaaaa
+aaafghiaaaaa
+aaajklmaaaaa
+aaaanaaaaaaa
+aaaaoaaaaaaa
+aaaaaaaaaaaa
+aaaaaaaaaaaa
+"}

@@ -1,0 +1,35 @@
+"a" = (/turf,/area)
+"b" = (/turf/house/inner/left{tag = ""; icon_state = "0,3"},/area)
+"c" = (/turf/house/inner/window{tag = ""; icon_state = "0,3"},/area)
+"d" = (/turf/house/inner/window{tag = ""; icon_state = "1,3"},/area)
+"e" = (/turf/house/inner/window{tag = ""; icon_state = "2,3"},/area)
+"f" = (/turf/house/inner/right{tag = ""; icon_state = "0,3"},/area)
+"g" = (/turf/house/inner/left{tag = ""; icon_state = "0,2"},/area)
+"h" = (/turf/house/inner/window{tag = ""; icon_state = "0,2"},/area)
+"i" = (/turf/house/inner/window{tag = ""; icon_state = "1,2"},/area)
+"j" = (/turf/house/inner/window{tag = ""; icon_state = "2,2"},/area)
+"k" = (/turf/house/inner/right{tag = ""; icon_state = "0,2"},/area)
+"l" = (/turf/house/inner/left{tag = ""; icon_state = "0,1"},/area)
+"m" = (/turf/house/inner/window{tag = ""; icon_state = "0,1"},/area)
+"n" = (/turf/house/inner/window{tag = ""; icon_state = "1,1"},/area)
+"o" = (/turf/house/inner/window{tag = ""; icon_state = "2,1"},/area)
+"p" = (/turf/house/inner/right{tag = ""; icon_state = "0,1"},/area)
+"q" = (/turf/house/inner/left{tag = ""; icon_state = "0,0"},/area)
+"r" = (/turf/house/inner/window{tag = ""; icon_state = "0,0"},/area)
+"s" = (/turf/house/inner/window{tag = ""; icon_state = "1,0"},/area)
+"t" = (/turf/house/inner/window{tag = ""; icon_state = "2,0"},/area)
+"u" = (/turf/house/inner/right{tag = ""; icon_state = "0,0"},/area)
+"v" = (/turf/floor/inner/wood,/area)
+
+(1,1,1) = {"
+aabcdefaaa
+aaghijkaaa
+aalmnopaaa
+aaqrstuaaa
+avvvvvvvaa
+aaaaaaavaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+aaaaaaaaaa
+"}

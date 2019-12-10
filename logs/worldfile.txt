@@ -1,0 +1,589 @@
+//START OF WORLD LOG FILES
+//BYOND Account Name: The user's key on BYOND
+//Character name: the name of the original character (without shapeshift/glamour)
+//Appearance: name of character (possibly with shapeshift/glamour)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Are you fully logged in?
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: nope
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: nearly
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: You're a Guy?
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: ?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Tell me when you're fully logged in so Ican show you my new destructive power.
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: dam I forgot bout that thing Im on my bros other key darn I'll just use the spell to change back
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays:  ok
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: Why dont you get robert to host ?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Who's Robert?
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: that host you had at TWC
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Oh..Linshon.
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: the one before gandldorf
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: yeah
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: Im logged in but Im getting my gender changed
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: He said needs to think about it first.
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: Rag ?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: ?
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: Can you edit me so I have telekinesis and not cloaking ?
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: please
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Im too lazy.
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: ...
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Make your character then ill summon you and give candles
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+worldsays: lol k
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+worldsays: it dont matter I got telekientics
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: k
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+worldsays: I wanna come -_-
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Heya Falcky
+
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: SaiyinMaster (/client)
+  call stack:
+SaiyinMaster (/client): MouseDrag( (143,93,1) (/turf/loginscreen/loginscreen),  (143,92,1) (/turf/loginscreen/loginscreen),  (143,93,1) (/turf/loginscreen/loginscreen),  (143,92,1) (/turf/loginscreen/loginscreen))
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: whats up
+
+BYOND Account Name:locao|Character name:Zodíaco|Appearance:Zodíaco
+worldsays: HI from ALL
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: yeay lower demon
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: okay
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: anyone know what the best class is?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: I like Whitelighter.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Half-Whitelighter too.
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: ok
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: cool
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: i guess ill be a darklighter
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: i am human and need to beee loooooved, just like everybody EEEEEELSE
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: darn
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: still loading
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+worldsays: FINALLY
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Test
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Test
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Test
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Welcome to Charmed Online.
+
+BYOND Account Name:brickwallsean|Character name:Magnum|Appearance:Magnum
+worldsays: can i get it downloaded before you reboot agian plz lol
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Yeah sorry...Dial up sucks. 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Im just working on updates.
+
+BYOND Account Name:brickwallsean|Character name:Magnum|Appearance:Magnum
+worldsays: k thanks
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: np
+
+BYOND Account Name:sanzo595|Character name:Leon|Appearance:Leon
+worldsays: hello?
+
+BYOND Account Name:sanzo595|Character name:Leon|Appearance:Leon
+worldsays: is rag on?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: I am Rag.
+
+BYOND Account Name:sanzo595|Character name:Leon|Appearance:Leon
+worldsays: oh XD
+
+BYOND Account Name:sanzo595|Character name:Leon|Appearance:Leon
+worldsays: how do we apply for GM?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: By talking to me about it.
+
+BYOND Account Name:sanzo595|Character name:Leon|Appearance:Leon
+worldsays: ok
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: hey man what happen did u and xoule split up?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: No we're good buds now.  He just doesnt want anything to do with the game anymore so he gave it to me.
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: what about hawk???
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Back
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Had to make some soup. Sorru
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Hawkbane doesnt work on his game anymore, so I was going to. But his game is nothing compare to this,.
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: np im still loading ne ways lol
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: sorry...Im trying to find a better host Until then all Ican do is host on dial up
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: ohh so this isnt a clone then all the charmed games im seeing in search are all dif?
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: dude let me host
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: im hosting a DMO server right now
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: i could host both and still not lag
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: 24/7 Lag Free?
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: long as byond and ISP stay up
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Exxxxxxcellent.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Problem is..Im constantly updating.
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: DMO server been going 3 days 1 reboot 0 lag had 60+ on at once so far
+
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (142,87,1) (/turf/floor/water/ceil9),  (143,87,1) (/turf/floor/water/ceil9),  (142,87,1) (/turf/floor/water/ceil9),  (143,87,1) (/turf/floor/water/ceil9))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (143,91,1) (/turf/loginscreen/blank),  (143,92,1) (/turf/loginscreen/loginscreen),  (143,91,1) (/turf/loginscreen/blank),  (143,92,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (143,91,1) (/turf/loginscreen/blank),  (143,93,1) (/turf/loginscreen/loginscreen),  (143,91,1) (/turf/loginscreen/blank),  (143,93,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (143,93,1) (/turf/loginscreen/loginscreen),  (142,93,1) (/turf/loginscreen/loginscreen),  (143,93,1) (/turf/loginscreen/loginscreen),  (142,93,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (142,93,1) (/turf/loginscreen/loginscreen),  (143,93,1) (/turf/loginscreen/loginscreen),  (142,93,1) (/turf/loginscreen/loginscreen),  (143,93,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (143,93,1) (/turf/loginscreen/loginscreen),  (143,94,1) (/turf/loginscreen/loginscreen),  (143,93,1) (/turf/loginscreen/loginscreen),  (143,94,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Giantmove (/client)
+  call stack:
+Giantmove (/client): MouseDrag( (143,93,1) (/turf/loginscreen/loginscreen),  (141,94,1) (/turf/loginscreen/loginscreen),  (143,93,1) (/turf/loginscreen/loginscreen),  (141,94,1) (/turf/loginscreen/loginscreen))
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: only if you'd be willing to apply the updates often.
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: lol i work at home 
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: so im on alot
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: you were hawks old HOST werent u
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Yeah
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Back when I had broadband.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: But I moved.  So I gotta wait until the ISP can hook us back up.
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+worldsays: how to get farther
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: just promise me it wont turn out like that did a bunch of bullies that think they own the game picking on noobs cause there bored
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Correct.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Im gonna be updating the map alot and stuff too.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: IF I can think of anything
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: So far all I did was add onto Heaven a bit
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: u have a code that keeps people from copeing your name and pretending to be you?
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+worldsays: so we cant play?
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: i remember that use to be an issue before on hawks 
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: i cant wait till it loads and i can see the damn game lol
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: u can play its just long load for the next 30mins maybe
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Wellllllllll When you get loaded let me know, So I can summon you.
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: ok
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: lol k im 2/3s there
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: ummm im loaded
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: im a member to fyi so u can page me on pager when ya need 
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+worldsays: loaded
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+worldsays: loaded
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: and im in heaven
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: rofl ive had this key since sep 01 lol and this wasnt my 1st key just the one i stuck with lol
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Lol 
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+worldsays: can i join the game?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Sure 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Its just laggy until I send Karma the host files.
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: lol im not even half loaded yet
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Sorrrrry
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: i only use yahoo socaljerr@yahoo.com 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Im going to let Karma host 24/7...While I continue to update the game.
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: good
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: So tell all your friends,  Ragnarok got his way and convinced Xoule to let him take over the game.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: CO Lives on!
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Iv'e cretainly missed it
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+worldsays: this good game i am charmned fan and rpg fan rofl
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Yup
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Karma tell me when you'reloaded
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: ive got almost 5gs into my system and im only one in world that i know running full 64bit with windows XP64 os
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: This send is probably going to take hours if i send all of the saves.
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: so the lag wont be an issue much longer
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: SO Im going to send just a couple of the saves.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: of All the ones online right now.
+
+runtime error: Cannot read null.density
+proc name: Mapper (/turf/proc/Mapper)
+  usr: Sanzo (/mob/Player)
+  src: the map (139,68,1) (/turf/map)
+  call stack:
+the map (139,68,1) (/turf/map): Mapper(158, -379)
+the map (139,68,1) (/turf/map): MouseUp(the map (139,68,1) (/turf/map), 29, 11)
+Sanzo595 (/client): MouseUp(the map (139,68,1) (/turf/map), the map (139,68,1) (/turf/map), 29, 11)
+runtime error: Cannot read null.density
+proc name: Mapper (/turf/proc/Mapper)
+  usr: Sanzo (/mob/Player)
+  src: the map (139,68,1) (/turf/map)
+  call stack:
+the map (139,68,1) (/turf/map): Mapper(158, -393)
+the map (139,68,1) (/turf/map): MouseUp(the map (139,67,1) (/turf/map), 29, 14)
+Sanzo595 (/client): MouseUp(the map (139,68,1) (/turf/map), the map (139,67,1) (/turf/map), 29, 14)
+runtime error: Cannot read null.density
+proc name: Mapper (/turf/proc/Mapper)
+  usr: Sanzo (/mob/Player)
+  src: the map (136,68,1) (/turf/map)
+  call stack:
+the map (136,68,1) (/turf/map): Mapper(107, -383)
+the map (136,68,1) (/turf/map): MouseUp(the map (136,68,1) (/turf/map), 22, 2)
+Sanzo595 (/client): MouseUp(the map (136,68,1) (/turf/map), the map (136,68,1) (/turf/map), 22, 2)
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: lol get on yahoo and start sendng lol
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: But the host file themselves can take a good 2 hours.  I hope you ain't doing anything today.
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: brb afk
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: laundry lol
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: LOL
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Past halfway now
+
+BYOND Account Name:exodia2000|Character name:Angel Boy|Appearance:Angel Boy
+worldsays: did rag find a lag free person?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Yeah im sending host files
+
+BYOND Account Name:exodia2000|Character name:Angel Boy|Appearance:Angel Boy
+worldsays: kk
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: is everyone a whitelighter?
+
+BYOND Account Name:exodia2000|Character name:Angel Boy|Appearance:Angel Boy
+worldsays: i am
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: I added onto Heaven fyi.
+
+BYOND Account Name:exodia2000|Character name:Angel Boy|Appearance:Angel Boy
+worldsays: it would be cool to get new icons but these are fine
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Im not an iconer so..
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: ....
+
+BYOND Account Name:exodia2000|Character name:Angel Boy|Appearance:Angel Boy
+worldsays: lol np
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: what does the action God Elder do?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Oh I coded that last night to make her give me Elder status right away.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Because I was accidentally a Triad
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: XD
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Almost done!
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+worldsays: awww God Elder wont work on us
+
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Fallen_Crisis (/client)
+  call stack:
+Fallen_Crisis (/client): MouseDrag( (142,93,1) (/turf/loginscreen/loginscreen),  (142,94,1) (/turf/loginscreen/loginscreen),  (142,93,1) (/turf/loginscreen/loginscreen),  (142,94,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Fallen_Crisis (/client)
+  call stack:
+Fallen_Crisis (/client): MouseDrag( (144,94,1) (/turf/loginscreen/loginscreen),  (144,93,1) (/turf/loginscreen/loginscreen),  (144,94,1) (/turf/loginscreen/loginscreen),  (144,93,1) (/turf/loginscreen/loginscreen))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Fallen_Crisis (/client)
+  call stack:
+Fallen_Crisis (/client): MouseDrag( (144,94,1) (/turf/loginscreen/loginscreen),  (145,93,1) (/turf/loginscreen/blank),  (144,94,1) (/turf/loginscreen/loginscreen),  (145,93,1) (/turf/loginscreen/blank))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Fallen_Crisis (/client)
+  call stack:
+Fallen_Crisis (/client): MouseDrag( (144,92,1) (/turf/loginscreen/loginscreen),  (144,91,1) (/turf/loginscreen/blank),  (144,92,1) (/turf/loginscreen/loginscreen),  (144,91,1) (/turf/loginscreen/blank))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Fallen_Crisis (/client)
+  call stack:
+Fallen_Crisis (/client): MouseDrag( (139,88,1) (/turf/loginscreen/blank),  (139,87,1) (/turf/floor/water/ceil9),  (139,88,1) (/turf/loginscreen/blank),  (139,87,1) (/turf/floor/water/ceil9))
+runtime error: undefined variable /mob/Choosing_Char/var/stun
+proc name: MouseDrag (/client/MouseDrag)
+  usr:  (/mob/Choosing_Char)
+  src: Fallen_Crisis (/client)
+  call stack:
+Fallen_Crisis (/client): MouseDrag( (139,88,1) (/turf/loginscreen/blank),  (138,87,1) (/turf/floor/water/ceil9),  (139,88,1) (/turf/loginscreen/blank),  (138,87,1) (/turf/floor/water/ceil9))
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: The repepating theme is annoying
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: It stops when you login
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Ok
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Yay i logged in!
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: yay im finaly in
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: multi tilled icons lol
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+worldsays: thats hard as hell to code
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Rag does build work?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Yeah but only in the Building Area
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: Is that still in the west?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Yes
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: ok
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+worldsays: AFK
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+worldsays: Test
+
+BYOND Account Name:ragnarokhgm|Character name:Ragnarok|Appearance:Ragnarok
+worldsays: .
+

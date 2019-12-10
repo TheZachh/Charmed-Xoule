@@ -1,0 +1,3937 @@
+//START OF SAY LOG FILES
+//BYOND Account Name: The user's key on BYOND
+//Character name: the name of the original character (without shapeshift/glamour)
+//Appearance: name of character (possibly with shapeshift/glamour)
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+runtime error: Cannot modify null.loc.
+proc name: Drop Herb Into Pot (/obj/Getables/Pot/verb/Drop_Herb_Into_Pot)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Drop Herb Into Pot()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: undefined variable /mob/Choosing_Char/var/astralbody
+proc name: South (/client/South)
+  usr:  (/mob/Choosing_Char)
+  src: Xoule (/client)
+  call stack:
+Xoule (/client): South()
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot execute null.SwapColor().
+proc name: Prepare Potion (/obj/Getables/Pot/verb/Prepare_Potion)
+  usr: X (/mob/Player)
+  src: Pot (/obj/Getables/Pot)
+  call stack:
+Pot (/obj/Getables/Pot): Prepare Potion()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:xoule|Character name:X|Appearance:X
+says: Argh, I think I'm hit
+
+runtime error: cannot read from list
+proc name: Drink (/obj/Getables/Drinkable/Potions/Potion/verb/Drink)
+  usr: X (/mob/Player)
+  src: Potion (/obj/Getables/Drinkable/Potions/Potion)
+  call stack:
+Potion (/obj/Getables/Drinkable/Potions/Potion): Drink()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: cannot read from list
+proc name: Drink (/obj/Getables/Drinkable/Potions/Potion/verb/Drink)
+  usr: X (/mob/Player)
+  src: Potion (/obj/Getables/Drinkable/Potions/Potion)
+  call stack:
+Potion (/obj/Getables/Drinkable/Potions/Potion): Drink()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.telekinesis
+proc name: Levelme (/mob/Player/proc/Levelme)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Levelme(null)
+Deathcheck(X (/mob/Player), X (/mob/Player))
+Potion (/obj/Getables/Drinkable/Potions/Potion): Drink()
+BYOND Account Name:xoule|Character name:X|Appearance:X
+says: Argh, I think I'm hit
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.telekinesis
+proc name: Levelme (/mob/Player/proc/Levelme)
+  usr: 0
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Levelme(null)
+Deathcheck(Leslie Broadley (/mob/Player), X (/mob/Player))
+Vanquishing Potion (/obj/Getables/Throwable/Potions/Mild_Vanquishing): Bump(Leslie Broadley (/mob/Player))
+Vanquishing Potion (/obj/Getables/Throwable/Potions/Mild_Vanquishing): Move(Pavement (26,90,1) (/turf/floor/pavement3), 10)
+runtime error: Cannot read null.telekinesis
+proc name: Levelme (/mob/Player/proc/Levelme)
+  usr: 0
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Levelme(null)
+Deathcheck(Tim Turner (/mob/Player), X (/mob/Player))
+Vanquishing Potion (/obj/Getables/Throwable/Potions/Mild_Vanquishing): Bump(Tim Turner (/mob/Player))
+Vanquishing Potion (/obj/Getables/Throwable/Potions/Mild_Vanquishing): Move(Pavement (27,90,1) (/turf/floor/pavement3), 1)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: wrong type of value for list
+proc name: Modme (/mob/Player/proc/Modme)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Modme()
+X (/mob/Player): Login()
+ (/mob/Choosing_Char): Loadme("X")
+ (/mob/Choosing_Char): Login()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: wrong type of value for list
+proc name: Modme (/mob/Player/proc/Modme)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Modme()
+X (/mob/Player): Login()
+ (/mob/Choosing_Char): Loadme("X")
+ (/mob/Choosing_Char): Login()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: Maximum recursion level reached (perhaps there is an infinite loop)
+To avoid this safety check, set world.loop_checks=0.
+verb name: Delete (/mob/Player/Builder/verb/Delete)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+...
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (296,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete()
+runtime error: Maximum recursion level reached (perhaps there is an infinite loop)
+To avoid this safety check, set world.loop_checks=0.
+verb name: Delete (/mob/Player/Builder/verb/Delete)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+...
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (295,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete()
+runtime error: Maximum recursion level reached (perhaps there is an infinite loop)
+To avoid this safety check, set world.loop_checks=0.
+verb name: Delete (/mob/Player/Builder/verb/Delete)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+...
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (294,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete()
+runtime error: Maximum recursion level reached (perhaps there is an infinite loop)
+To avoid this safety check, set world.loop_checks=0.
+verb name: Delete (/mob/Player/Builder/verb/Delete)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+...
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete( (293,61,2) (/turf/grave/floor))
+X (/mob/Player): Delete()
+runtime error: Maximum recursion level reached (perhaps there is an infinite loop)
+To avoid this safety check, set world.loop_checks=0.
+verb name: Delete (/mob/Player/Builder/verb/Delete)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+...
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete()
+runtime error: Maximum recursion level reached (perhaps there is an infinite loop)
+To avoid this safety check, set world.loop_checks=0.
+verb name: Delete (/mob/Player/Builder/verb/Delete)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+...
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete( (293,61,2) (/turf/inner/wood))
+X (/mob/Player): Delete()
+Shutting down after encountering too many critical errors.
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: bad loc
+proc name: Delete All (/mob/Player/Builder/verb/Delete_All)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete All()
+runtime error: bad loc
+proc name: Delete All (/mob/Player/Builder/verb/Delete_All)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete All()
+runtime error: bad loc
+proc name: Delete All (/mob/Player/Builder/verb/Delete_All)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete All()
+runtime error: bad loc
+proc name: Delete All (/mob/Player/Builder/verb/Delete_All)
+  usr: X (/mob/Player)
+  src: X (/mob/Player)
+  call stack:
+X (/mob/Player): Delete All()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+shouts: TEST
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+shouts: AVADA KEDAVRA
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Bottle
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: Shadows unseen from the skies, in this hour of hardship rise, guide me to my destiny, witching powers give to me. 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Hey
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: hey
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Watch!!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+shouts: AVADA KEDAVRA
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: From whence i was born, I was created, I change now to make for now I assended, make me now I command! 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+shouts: TEST
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: I need to be a witch
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says:  See?
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: yeah lol
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Let me reboot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says:  Save
+
+BYOND(348.905) Security: certificate for Prue Halliwell failed (0,1).
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: From whence i was born, I was created, I change now to make for now I assended, make me now I command! 
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: From whence i was born, I was created, I change now to make for now I assended, make me now I command! 
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: NO!
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: From whence i was born, I was created, I change now to make for now I assended, make me now I command! 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says:  Good.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says:  The spells are in.
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: Shadows unseen from the skies, in this hour of hardship rise, guide me to my destiny, witching powers give to me. 
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: omg
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: no fair
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: I want telekinesis
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: lol
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: From whence i was born, I was created, I change now to make for now I assended, make me now I command! 
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: From whence i was born, I was created, I change now to make for now I assended, make me now I command! 
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: ^^
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Sweet
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: lol
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: I made that spell up
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: ^^
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Yeah
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Im gonna rename it to
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: The Transvestite Spell
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: Can you give me telekinesis and take out cloaking ?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Just make a new character.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Ill supply you with candles
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: And summon you
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: Okay lol
+
+BYOND Account Name:pruehalliwell|Character name:Prue Halliwell|Appearance:Prue Halliwell
+says: brb
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says:  Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says:  Need a candle?
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: anyway
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: nope
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: what you gonna update first ?
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: I think you should add magic school
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Im gonna look aroudn the city
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: The map shows some hidden places
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: ...
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: wait
+
+BYOND Account Name:pruehalliwell|Character name:Prue|Appearance:Prue
+says: what
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: How dare you come snooping around.
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: Damned witches.
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: ....
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: yo
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: im getting a butload of lag so bear with me
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Yo
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Sorry..im hosting on dialup..
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: its ok
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: were rag at?
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: is he even on?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I am Rag, you doink.
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: see that was a test
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: i alst got u
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Huh?
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: why did TWC go down
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: holy
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Wanna see my destructive power?
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: um
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: if its not me ur testing on
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: SEe?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I blew everything away
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: lol
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: wow
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: so this is ur game too?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Yup
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: u want me to try to find host for it?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Sure
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: ok cool
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: im goin on all the chat servers hold on
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: rag
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: u there
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: yah
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: u still looking for st
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: ?
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: arent still looking for a host
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: ?
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: this guy has TI higher
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: and a compaq
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: heres his MSN if u wanna talk to him
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Sweet
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: xvi3tn4m3s3xb0ix@hotmail.com
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: if u dont its ok
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: i gotta 
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: peace out
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: OH
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Bye
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: why did TWC shutdown
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I dunno Clifor must have crashed his internet
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: oh ok
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: hope its up tommorow
+
+BYOND Account Name:falckor|Character name:Falckor|Appearance:Falckor
+says: peace out
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: bye man
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Ghast (/mob/Player/Monster/Ghast), null)
+Fragmented power (/obj/Ungetables/Soul): Bump(Ghast (/mob/Player/Monster/Ghast))
+Fragmented power (/obj/Ungetables/Soul): Move( (198,51,1) (/turf/teleporter/Graveyard/i1), 2)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+Fragmented power (/obj/Ungetables/Soul): Bump(Ghast (/mob/Player/Monster/Ghast))
+Fragmented power (/obj/Ungetables/Soul): Move( (198,51,1) (/turf/teleporter/Graveyard/i1), 2)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: Fragmented power (/obj/Ungetables/Soul)
+  call stack:
+Fragmented power (/obj/Ungetables/Soul): Bump(Ghast (/mob/Player/Monster/Ghast))
+Fragmented power (/obj/Ungetables/Soul): Move( (198,51,1) (/turf/teleporter/Graveyard/i1), 2)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Are you there?
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: 2 tile mobs?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Yup.
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: nice
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Ready to see the Orb?
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: sure
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: 3
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: 2
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: 1
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: yeah the 2 tiles messes with my game too..
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: when teleporting
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Did you see the effect?
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: kinda
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: oh awesome
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: that's cool
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: yeah I could make something like that.. it'd be a dithered overlay though
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Okay.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: But it needs to be for ONE Tiled mobs.
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: lol I know
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: my idea was this whisp of smoke that starts at the feet
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Im trying to revamp TWC's icons. :P  Trying to make the game look as realistic as possible.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Like this?
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: wraps around the mob and makes them disappear as the whisp flies up
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: I didn't see it
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: it just looks like you're blinking.. heh
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Nope.
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: it keeps loading resources and lagging me
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Ah..
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Watch this effect. It looks like we're levitating.
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: hold on a sec..
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Did you see that?
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: it keeps loading more resources -_-
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: How aboout then ---
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: random remote viewing?
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: No lol
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Oh I see, you cant see it like I do, since im doing it to you.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Right click me
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Join orb
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Im gonna show you another power.
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: our arms are lopsided o_0
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Right click me
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Hold on tight.,
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: wee
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Watch this power.
+
+BYOND Account Name:recondye|Character name:Recon|Appearance:Recon
+says: I like the mapping
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Zach!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Zach!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: At
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: silver
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Ella Rowse
+shouts: l
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Ella Rowse
+says: Cross
+
+runtime error: Cannot read null.gender
+proc name: Fade (/mob/Player/proc/Fade)
+  usr: null
+  src: null
+  call stack:
+Fade(null, 20, 20, 40, 10, 0, null, null, null)
+Effects("Orb")
+Orb()
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: undefined variable /mob/Choosing_Char/var/astralbody
+proc name: West (/client/West)
+  usr:  (/mob/Choosing_Char)
+  src: HORNET23 (/client)
+  call stack:
+HORNET23 (/client): West()
+runtime error: undefined variable /mob/Choosing_Char/var/astralbody
+proc name: South (/client/South)
+  usr:  (/mob/Choosing_Char)
+  src: HORNET23 (/client)
+  call stack:
+HORNET23 (/client): South()
+BYOND(348.905) Security: certificate for HORNET23 failed (0,1).
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.density
+proc name: Mapper (/turf/proc/Mapper)
+  usr: Zach (/mob/Player)
+  src: the map (136,67,1) (/turf/map)
+  call stack:
+the map (136,67,1) (/turf/map): Mapper(108, -386)
+the map (136,67,1) (/turf/map): MouseUp(the map (136,67,1) (/turf/map), 25, 29)
+Ragnarok HGM (/client): MouseUp(the map (136,67,1) (/turf/map), the map (136,67,1) (/turf/map), 25, 29)
+runtime error: Cannot read null.density
+proc name: Mapper (/turf/proc/Mapper)
+  usr: Zach (/mob/Player)
+  src: the map (137,68,1) (/turf/map)
+  call stack:
+the map (137,68,1) (/turf/map): Mapper(117, -373)
+the map (137,68,1) (/turf/map): MouseUp(the map (137,68,1) (/turf/map), 11, 23)
+Ragnarok HGM (/client): MouseUp(the map (137,68,1) (/turf/map), the map (137,68,1) (/turf/map), 11, 23)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND(348.905) Security: certificate for HORNET23 failed (0,1).
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Recoverme (/mob/Player/proc/Recoverme)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Recoverme()
+Zach (/mob/Player): Recoverme()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Stat()
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+runtime error: cannot read from list
+proc name: Stat (/mob/Player/Stat)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Come.
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+says: crap
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+says: lol!
+
+BYOND Account Name:giantmove|Character name:jelledj|Appearance:jelledj
+says: how long can walking take
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+says: XD
+
+BYOND Account Name:sanzo595|Character name:Sanzo|Appearance:Sanzo
+says: wont work on us
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+says: hi
+
+BYOND Account Name:masterscar|Character name:Matt Davison|Appearance:Matt Davison
+says: Shadows unseen from the skies, in this hour of hardship rise, guide me to my destiny, witching powers give to me. 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Karma.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: What's your MSN?
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+says: yea loading icons 
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+says: dont use it 
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I need it to send host files.
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+says: k its downloading 
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+says: its goditz@hotmail 
+
+BYOND Account Name:goditz|Character name:Karma|Appearance:Karma
+says: ill be on as soon as it installs
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.gender
+proc name: Fade (/mob/Player/proc/Fade)
+  usr: null
+  src: null
+  call stack:
+Fade(null, 20, 20, 40, 10, 0, null, null, null)
+Effects("Orb")
+the map (132,95,1) (/turf/map): Mapper(47, 52)
+runtime error: Cannot modify null.control.
+proc name: Mapper (/turf/proc/Mapper)
+  usr: null
+  src: the map (132,95,1) (/turf/map)
+  call stack:
+the map (132,95,1) (/turf/map): Mapper(47, 52)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot execute null.Fade().
+proc name: Orb Summon (/mob/Player/Powers/verb/Orb_Summon)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Orb Summon(null)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul),  (37,114,1) (/turf/floor/dust))
+Fragmented power (/obj/Ungetables/Soul): Move( (36,115,1) (/turf/floor/dust), 9)
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul), Pavement (36,114,1) (/turf/floor/pavement2))
+Fragmented power (/obj/Ungetables/Soul): Move( (36,115,1) (/turf/floor/dust), 1)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Enter_Mountains/Entered)
+  usr: 0
+  src: Enter Mountains (/area/Enter_Mountains)
+  call stack:
+Enter Mountains (/area/Enter_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul), Road (101,199,2) (/turf/floor/road))
+Fragmented power (/obj/Ungetables/Soul): Move(Road (101,200,2) (/turf/floor/road), 1)
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Enter_Mountains/Entered)
+  usr: 0
+  src: Enter Mountains (/area/Enter_Mountains)
+  call stack:
+Enter Mountains (/area/Enter_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul), Road (100,199,2) (/turf/floor/road))
+Fragmented power (/obj/Ungetables/Soul): Move(Road (101,200,2) (/turf/floor/road), 5)
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul),  (37,114,1) (/turf/floor/dust))
+Fragmented power (/obj/Ungetables/Soul): Move( (36,115,1) (/turf/floor/dust), 9)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul),  (33,115,1) (/turf/floor/dust))
+Fragmented power (/obj/Ungetables/Soul): Move( (34,115,1) (/turf/floor/dust), 4)
+runtime error: Cannot read null.damagecounter2
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: null
+  src: null
+  call stack:
+Deathcheck(null, null)
+Fight(null)
+Look()
+New( (19,138,1) (/turf/floor/dust))
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (171,178,1) (/turf/under/f1), 10)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (171,178,1) (/turf/under/f1), 10)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (171,178,1) (/turf/under/f1), 10)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of Shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I summon the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: i call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: i call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: i call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: i call the book of shadows come to me and settle here
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul),  (37,115,1) (/turf/floor/dust))
+Fragmented power (/obj/Ungetables/Soul): Move( (36,115,1) (/turf/floor/dust), 8)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icallthebookofshadowscometomeandsettlehere
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I summon a ghast I summon it here, come to me and settle here
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+runtime error: undefined proc or verb /obj/Misc/Book_of_Shadows/top/Fade().
+
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("icallthebookofshadowscometomea...")
+Zach (/mob/Player): Say("I call the book of shadows com...")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Your deeds have not been kind, your powers I now bind
+
+runtime error: Cannot read "Cancel".verbs
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("yourdeedshavenotbeenkindyourpo...")
+Zach (/mob/Player): Say("Your deeds have not been kind,...")
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Pot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Pot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Your deeds have not been kind, your powers I now bind.
+
+runtime error: Cannot read "Cancel".verbs
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("yourdeedshavenotbeenkindyourpo...")
+Zach (/mob/Player): Say("Your deeds have not been kind,...")
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Your deeds have not been kind, your powers I now bind.
+
+runtime error: Cannot read null.verbs
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("yourdeedshavenotbeenkindyourpo...")
+Zach (/mob/Player): Say("Your deeds have not been kind,...")
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: inthistimeandinthisplacetakemetothedemonsbase
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: inthistimeandinthisplacetakemetothedemonsbase
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: inthistimeandinthisplacetakemetothedemonsbase
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: inthistimeandinthisplacetakemetothedemonsbase
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: inthistimeandinthisplacetakemetothedemonsbase
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+runtime error: undefined proc or verb /obj/Misc/Book_of_Shadows/top/Effects().
+
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("icallthebookofshadowscometomea...")
+Zach (/mob/Player): Say("I call the book of shadows com...")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+runtime error: undefined proc or verb /obj/Misc/Book_of_Shadows/top/Effects().
+
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("icallthebookofshadowscometomea...")
+Zach (/mob/Player): Say("I call the book of shadows com...")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+runtime error: undefined proc or verb /obj/Misc/Book_of_Shadows/top/Effects().
+
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("icallthebookofshadowscometomea...")
+Zach (/mob/Player): Say("I call the book of shadows com...")
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul),  (37,114,1) (/turf/floor/dust))
+Fragmented power (/obj/Ungetables/Soul): Move(Pavement (36,114,1) (/turf/floor/pavement2), 8)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+runtime error: undefined proc or verb /obj/Misc/Book_of_Shadows/top/Effects().
+
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("icallthebookofshadowscometomea...")
+Zach (/mob/Player): Say("I call the book of shadows com...")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candkle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Can
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Book
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this plce
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this place
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this place
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Open Our home
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+runtime error: undefined proc or verb /turf/teleporter/Housing/z1/Effects().
+
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("protectourhomefromthosewhomayn...")
+Zach (/mob/Player): Say("Protect our home from those wh...")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the book of shadows come to me and settle here
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I call the power within me, to take me home to my sanctuary
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icallthepowerwithinmetotakemehometomysanctuary
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icallthepowerwithinmetotakemehometomysanctuary
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icallthepowerwithinmetotakemehometomysanctuary
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icallthepowerwithinmetotakemehometomysanctuary
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this place
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemeinsidewherefromothersihide
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this place
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemeinsidewherefromothersihide
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemehomewithhasteandawayfromthisplace
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemeinsidewherefromothersihide
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me inside where from others I hide
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: test
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home  from those who may not neter
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not neter
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Protect our home from those who may not enter
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Open Our home
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: You fucking hit me again, I'll fucking knock your head off and orb it into the trash.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: *BAM!* Your brains just landed all over my new carpet.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: I'm going to kick your ass!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemefromthisrealityandtoeternity
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemefromthisrealityandtoeternity
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemefromthisrealityandtoeternity
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemefromthisrealityandtoeternity
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemefromthisrealityandtoeternity
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemehomewithhasteandawayfromthisplace
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icastthisspelltohelptheeovercomeyourdestinyloseyourpowersloseyourgiftloseyoursoulforevermoreyoushallhavenopowersanymore
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Your deeds have not been kind your powers I will now bind
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Athame
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Pot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Pot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Pot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Pot
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Bottle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Athame
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Book
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Dark
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: One
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Soul
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot modify null.loc.
+proc name: Mapper (/turf/proc/Mapper)
+  usr: Zach (/mob/Player)
+  src: the map (133,95,1) (/turf/map)
+  call stack:
+the map (133,95,1) (/turf/map): Mapper(49, 55)
+the map (133,95,1) (/turf/map): MouseUp(the map (133,95,1) (/turf/map), 3, 15)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this place
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Athame
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Grim
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Potion
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Potion
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Potion
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (165,181,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: yourdeedshavenotbeenkindyourpowersiwillnowbind
+
+runtime error: Cannot read "Cancel".verbs
+proc name: Check Spell (/mob/Player/proc/Check_Spell)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Check Spell("yourdeedshavenotbeenkindyourpo...")
+Zach (/mob/Player): Say("yourdeedshavenotbeenkindyourpo...")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: icastthisspelltohelptheeovercomeyourdestinyloseyourpowersloseyourgiftloseyoursoulforevermoreyoushallhavenopowersanymore
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: isummonaghastisummonitherecometomeandsettlehere
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Take me home with haste and away from this place
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: iwishtoleaveinahurrytakemehometomysanctuary
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemeinsidewherefromothersihide
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: takemehomewherefromothersihide
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+runtime error: bad del
+proc name: Delete Save (/mob/Player/Moderator/verb/Delete_Save)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): Delete Save(Zach (/mob/Player))
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.class
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: 0
+  src: null
+  call stack:
+Deathcheck(Demon (/mob/Player/Monster/Speed_Demon), null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.client
+proc name: Getexp (/mob/Player/proc/Getexp)
+  usr: 0
+  src: null
+  call stack:
+Getexp(null, null)
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+runtime error: Cannot read null.activepower
+proc name: Bump (/obj/Bump)
+  usr: 0
+  src: the energyball (/obj/Ungetables/Throwable/Power/Energyball)
+  call stack:
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Bump(Demon (/mob/Player/Monster/Speed_Demon))
+the energyball (/obj/Ungetables/Throwable/Power/Energyball): Move( (166,180,1) (/turf/under/f1), 6)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+shouts: L
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: How dare you come snooping around.
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: Damned witches.
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: HOW DARE YOU ATTACK ME!
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: How dare you come snooping around.
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: Damned witches.
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: How dare you come snooping around.
+
+BYOND Account Name:|Character name:|Appearance:Kelnerth
+says: Damned witches.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Everyone shh Ill get us out of here
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+runtime error: Cannot read null.damagecounter2
+proc name: Deathcheck (/mob/Player/proc/Deathcheck)
+  usr: Ghast (/mob/Player/Monster/Ghast)
+  src: null
+  call stack:
+Deathcheck(null, Ghast (/mob/Player/Monster/Ghast))
+Ghast (/mob/Player/Monster/Ghast): Fight(null)
+Ghast (/mob/Player/Monster/Ghast): Look()
+Ghast (/mob/Player/Monster/Ghast): New()
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Athame
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Athame
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: potion
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: potion
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: potion
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: potion
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Book
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Book
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+runtime error: Cannot modify null.pixel_y.
+proc name: tkorb (/mob/Player/proc/tkorb)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): tkorb("Candle")
+Zach (/mob/Player): Say("Candle")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+runtime error: Cannot modify null.pixel_y.
+proc name: tkorb (/mob/Player/proc/tkorb)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): tkorb("Candle")
+Zach (/mob/Player): Say("Candle")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+runtime error: Cannot modify null.pixel_y.
+proc name: tkorb (/mob/Player/proc/tkorb)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): tkorb("Candle")
+Zach (/mob/Player): Say("Candle")
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: canlde
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+runtime error: undefined variable /mob/Choosing_Char/var/astralbody
+proc name: South (/client/South)
+  usr:  (/mob/Choosing_Char)
+  src: Ragnarok HGM (/client)
+  call stack:
+Ragnarok HGM (/client): South()
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+runtime error: Cannot modify null.pixel_y.
+proc name: tkorb (/mob/Player/proc/tkorb)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): tkorb("Candle")
+Zach (/mob/Player): Say("Candle")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+runtime error: Cannot modify null.pixel_y.
+proc name: tkorb (/mob/Player/proc/tkorb)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): tkorb("Candle")
+Zach (/mob/Player): Say("Candle")
+BYOND Account Name:ragnarokhgm|Character name:Zach|Appearance:Zach
+says: Candle
+
+runtime error: Cannot modify null.pixel_y.
+proc name: tkorb (/mob/Player/proc/tkorb)
+  usr: Zach (/mob/Player)
+  src: Zach (/mob/Player)
+  call stack:
+Zach (/mob/Player): tkorb("Candle")
+Zach (/mob/Player): Say("Candle")
+Undefined variable /obj/Ungetables/Soul/var/location.
+proc name: Entered (/area/Exit_Mountains/Entered)
+  usr: 0
+  src: Exit Mountains (/area/Exit_Mountains)
+  call stack:
+Exit Mountains (/area/Exit_Mountains): Entered(Fragmented power (/obj/Ungetables/Soul),  (33,114,1) (/turf/floor/dust))
+Fragmented power (/obj/Ungetables/Soul): Move(Pavement (34,114,1) (/turf/floor/pavement2), 4)
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Drats!
+
+BYOND Account Name:|Character name:|Appearance:Dymas
+says: Grrrrrrrrrrrrrrr.
+

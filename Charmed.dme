@@ -1,0 +1,65 @@
+// DM Environment file for Charmed.dme.
+// All manual changes should be made outside the BEGIN_ and END_ blocks.
+// New source code should be placed in .dm files: choose File/New --> Code File.
+
+// BEGIN_INTERNALS
+/*
+FILE: Charmed.dm
+DIR: smallorb
+MAP_ICON_TYPE: 0
+PACKAGE_RSC_NAME: D:\BYOND\Charmed\Charmed_rsc.zip
+PACKAGE_DMS_CLEANCHECK: OFF
+PACKAGE_DME_DEMO: 
+PACKAGE_DME_CLEANCHECK: OFF
+PACKAGE_TYPE: 0
+PACKAGE_DMB_HUB: 
+PACKAGE_DMB_EXECHECK: OFF
+PACKAGE_DMS_EXECHECK: OFF
+PACKAGE_RSC_CLEANCHECK: OFF
+PACKAGE_DMB_CLEANCHECK: OFF
+PACKAGE_DME_START: 
+PACKAGE_DME_NAME: D:\BYOND\Charmed\Charmed_src.zip
+PACKAGE_DMS_URL: 
+PACKAGE_DME_INFO: 
+PACKAGE_DMS_RSCCHECK: OFF
+PACKAGE_DMB_NAME: C:\Documents and Settings\User\Desktop\Charmed.zip
+PACKAGE_DMS_NAME: D:\BYOND\Charmed\Charmed_link.zip
+AUTO_FILE_DIR: ON
+PACKAGE_DMB_INFO: 
+PACKAGE_DMS_INFO: 
+*/
+// END_INTERNALS
+// BEGIN_FILE_DIR
+#define FILE_DIR .
+#define FILE_DIR "backup"
+#define FILE_DIR "bos"
+#define FILE_DIR "fire"
+#define FILE_DIR "fire/bottom"
+#define FILE_DIR "fire/top"
+#define FILE_DIR "fireflip"
+#define FILE_DIR "fireflip/bottom"
+#define FILE_DIR "fireflip/top"
+#define FILE_DIR "glamor"
+#define FILE_DIR "glamor/bottom"
+#define FILE_DIR "glamor/top"
+#define FILE_DIR "logs"
+#define FILE_DIR "pic"
+#define FILE_DIR "player"
+#define FILE_DIR "Saves"
+#define FILE_DIR "shimmer"
+#define FILE_DIR "smallorb"
+#define FILE_DIR "sound"
+// END_FILE_DIR
+
+// BEGIN_PREFERENCES
+// END_PREFERENCES
+
+// BEGIN_INCLUDE
+#include "characterhandling.dm"
+#include "Charmed.dm"
+#include "global.dm"
+#include "objects.dm"
+#include "turf.dm"
+#include "town.dmp"
+// END_INCLUDE
+
